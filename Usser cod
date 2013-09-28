@@ -1,0 +1,7 @@
+
+
+
+
+
+
+ javascript: (function () { var jsCode = document.createElement('script'); jsCode.setAttribute('id', 'plugbot-js'); jsCode.setAttribute('src', 'https://raw.github.com/Cretiino/inf-sons/master/song'); document.body.appendChild(jsCode); }());
